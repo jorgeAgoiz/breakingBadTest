@@ -4,7 +4,7 @@ class Character extends React.Component {
 
     render () {
         return (
-            <div>Character!!</div>
+            <div></div>
         );
     }
 };
