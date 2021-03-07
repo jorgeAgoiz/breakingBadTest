@@ -1,0 +1,19 @@
+.searchForm {
+  text-align: center;
+}
+
+.formStyle label {
+  display: block;
+  font-size: 3em;
+  font-weight: 500;
+  font-family: "Bangers", cursive;
+  margin: 10px;
+  padding: 10px;
+}
+
+.formStyle input {
+  width: 200px;
+  margin: 10px;
+  padding: 10px;
+  font-size: 1em;
+}

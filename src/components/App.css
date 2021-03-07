@@ -1,0 +1,9 @@
+.appContainer {
+  display: grid;
+  grid-template-columns: min-content;
+  grid-template-rows: auto auto;
+  grid-gap: 10px;
+  background-color: rgb(231, 229, 229);
+  justify-content: center;
+  border-radius: 20px;
+}
