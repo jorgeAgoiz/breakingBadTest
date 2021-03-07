@@ -9,7 +9,17 @@
 }
 
 .characterCard img {
-  height: 500px;
-  width: 350px;
+  height: 400px;
+  width: 270px;
   border-radius: 14px;
+}
+
+.loadTitle {
+  font-family: "Rock Salt", cursive;
+  font-size: 14px;
+  background-color: lightblue;
+  text-align: center;
+  margin: 10px;
+  padding: 10px;
+  border-radius: 12px;
 }
