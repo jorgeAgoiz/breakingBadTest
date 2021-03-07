@@ -2,7 +2,7 @@ import './Character.css';
 import React from 'react';
 
 const Character = (props) => {
-    console.log(props.charac);
+
     return (
         <div className="characterCard">
             <h1>{props.charac.name}</h1>
